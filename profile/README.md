@@ -1,6 +1,6 @@
 # Dev Corporations Ltd.
 
-Welcome to the GitHub Pages Site for Dev Corporations Ltd., a small "company" where I collaborate with my friends on various projects.
+Welcome to the GitHub Pages Site for Dev Corporations Ltd.
 
 ## About
 
