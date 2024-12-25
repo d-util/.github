@@ -1,6 +1,6 @@
-# Dev Corporations Ltd.
+# Dev Corporations Inc.
 
-Welcome to the GitHub Pages Site for Dev Corporations Ltd.
+Welcome to the GitHub Pages Site for Dev Corporations Inc.
 
 ## Projects
 
