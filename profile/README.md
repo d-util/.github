@@ -1,10 +1,6 @@
-# DevInno
+# DevTech
 
 Welcome to the GitHub Pages Site for Dev Corporations Ltd.
-
-## About
-
-Dev Corporations Ltd. is a collaborative project where friends work together to create and maintain various web-based projects. This repository is dedicated to hosting our GitHub Pages site.
 
 ## Projects
 
